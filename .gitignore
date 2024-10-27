@@ -4,6 +4,8 @@
 # /public/build
 /public/hot
 /public/storage
+/public/animation
+/public/models
 /storage/*.key
 /vendor
 .env
