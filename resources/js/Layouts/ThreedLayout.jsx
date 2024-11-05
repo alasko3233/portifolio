@@ -32,7 +32,7 @@ const ThreedLayout = ({ children }) => {
                     <Canvas
                         z
                         shadows
-                        camera={{ position: [0, 3, 6], fov: 45, zoom: 2 }}
+                        camera={{ position: [0, 3, 10], fov: 42, zoom: 2 }}
                     >
                         {/* <color attach="background" args={["ececec"]} /> */}
                         <ScrollControls pages={4} damping={0.1}>

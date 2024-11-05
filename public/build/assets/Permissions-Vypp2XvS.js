@@ -1,0 +1,1 @@
+import{q as a}from"./app-zR8_T5Oq.js";function r(){var t,e;const{props:i}=a(),s=(e=(t=i==null?void 0:i.auth)==null?void 0:t.user)==null?void 0:e.data;return{hasRole:o=>{var n;return(n=s==null?void 0:s.roles)==null?void 0:n.includes(o)},hasPermission:o=>{var n;return(n=s==null?void 0:s.permissions)==null?void 0:n.includes(o)},hasType:o=>(s==null?void 0:s.type)===o}}export{r as u};
